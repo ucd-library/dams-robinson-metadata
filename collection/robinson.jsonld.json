@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/0089701"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175993"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/2004069"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1175907"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2023"
+  },
+  "schema:description": "Jancis Robinson (1950-present), OBE MW, is a British wine writer, journalist, and television presenter. This collection includes tasting notes from commercial and trade tastings, wine festivals, and informal occasions. Photographs in the collection include formal publicity photographs, posed and informal photographs from award events and tastings, and photographs taken during filming of television programs, such as 1995's *Jancis Robinson's Wine Course*. \n\n A complete inventory of the collection is available in the collection’s finding aid at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8t43zwq).",
+  "schema:identifier": "D-612",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d39z2n/D-612_47_22_007.tif"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8t43zwq/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Robinson (Jancis) Papers on Wine Writing",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2023"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ]
+}

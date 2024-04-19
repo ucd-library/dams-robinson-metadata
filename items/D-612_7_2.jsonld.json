@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Book",
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/01919944"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-612_7_2.pdf"
+  },
+  "schema:creator": "Jancis Robinson",
+  "schema:identifier": [
+    "D-612, Box:7, Folder:2",
+    "ark:/87293/d3mr44"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-612_7_2_001.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8t43zwq/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Tasting notebook [1999-09-04 to 1999-11]: Lyon/Roanne 4/5 Sep 99; S Pannell 8 Sep 99; Ch ?? 9 Sep 99; L'Espirit du Siecle 27 Sep 99; Alsace end Sep 99; S Africa Oct 99; Calif and ?? Nov 99",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "4 September 1999-November 1999"
+}

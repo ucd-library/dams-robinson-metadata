@@ -1,0 +1,49 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:Book",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/01919944"
+  },
+  "schema:associatedMedia": {
+    "@id": "@base:/media/D-612_5_30.pdf"
+  },
+  "schema:creator": "Jancis Robinson",
+  "schema:identifier": [
+    "D-612, Box:5, Folder:30",
+    "ark:/87293/d3db8n"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/dl/D-612_5_30_001.jpg"
+  },
+  "schema:isPartOf": {
+    "@id": "https://oac.cdlib.org/findaid/ark:/13030/c8t43zwq/"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Tasting notebook [1994-05 to 1995-06]: May 94 Epernay, Germany; March 95 Chile; Jun 95 Bob C and NZ",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2020"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "May 1994-June 1995"
+}

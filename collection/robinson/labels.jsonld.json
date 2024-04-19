@@ -1,0 +1,32 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/0089701",
+    "http://schema.org/name": "Robinson, Jancis"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01919944",
+    "http://schema.org/name": "Notebooks"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175907",
+    "http://schema.org/name": "Wine and wine making"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1175993",
+    "http://schema.org/name": "Wine tasting"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/2004069",
+    "http://schema.org/name": "Wine selection"
+  }
+]
