@@ -35,7 +35,10 @@
     "@value": "2023"
   },
   "schema:description": "Jancis Robinson (1950-present), OBE MW, is a British wine writer, journalist, and television presenter. This collection includes tasting notes from commercial and trade tastings, wine festivals, and informal occasions. Photographs in the collection include formal publicity photographs, posed and informal photographs from award events and tastings, and photographs taken during filming of television programs, such as 1995's *Jancis Robinson's Wine Course*. \n\n A complete inventory of the collection is available in the collection’s finding aid at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8t43zwq).",
-  "schema:identifier": "D-612",
+  "schema:identifier": [
+    "D-612",
+    "ark:/87293/d3222rd00"
+  ],
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d39z2n/D-612_47_22_007.tif"
   },
