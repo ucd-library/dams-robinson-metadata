@@ -16,7 +16,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
+    "@id": "@base:/media/images"
   },
   "schema:identifier": [
     "ark:/87293/d3qf8g",
