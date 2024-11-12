@@ -16,7 +16,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
+    "@id": "@base:/media/images"
   },
   "schema:description": "Left to right: Wolfgang Dähnhard, Stuart Spiggott, Hugh Johnson, Jancis Robinson, and Beat Koelliker.",
   "schema:identifier": [
