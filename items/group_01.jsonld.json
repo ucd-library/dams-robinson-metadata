@@ -16,7 +16,7 @@
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
   "schema:associatedMedia": {
-    "@id": "@base:/media/dl"
+    "@id": "@base:/media/images"
   },
   "schema:identifier": [
     "D-612, Box:46, Folder:1 & 3",
