@@ -39,9 +39,6 @@
     "D-612",
     "ark:/87293/d3222rd00"
   ],
-  "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d39z2n/D-612_47_22_007.tif"
-  },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
