@@ -21,7 +21,7 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/D-612_7_16.pdf"
   },
-  "schema:creator": "Jancis Robinson",
+  "schema:creator": "Robinson, Jancis",
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYearMonth",
     "@value": "2001-10"
