@@ -27,7 +27,7 @@
     "ark:/87293/d3s51p"
   ],
   "schema:image": {
-    "@id": "@base:/D-612_48_4_019-cm.jpg"
+    "@id": "@base:/D-612_48_4_019.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

@@ -27,7 +27,7 @@
     "D-612, Box:48, Folder:3 & 4"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/D-612_48_3_016-cm.jpg"
+    "@id": "@base:/media/images/D-612_48_3_016.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"

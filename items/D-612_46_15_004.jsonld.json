@@ -23,7 +23,7 @@
     "ark:/87293/d3m50r"
   ],
   "schema:image": {
-    "@id": "@base:/D-612_46_15_004-cm.jpg"
+    "@id": "@base:/D-612_46_15_004.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
