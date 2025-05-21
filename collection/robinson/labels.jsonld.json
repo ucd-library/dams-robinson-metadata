@@ -10,6 +10,10 @@
     ]
   },
   {
+    "@id": "http://id.worldcat.org/fast/1175995",
+    "http://schema.org/name": "Wine writers"
+  },
+  {
     "@id": "http://id.worldcat.org/fast/0089701",
     "http://schema.org/name": "Robinson, Jancis"
   },
