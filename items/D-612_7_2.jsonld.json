@@ -32,7 +32,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Tasting notebook [1999-09-04 to 1999-11]: Lyon/Roanne 4/5 Sep 99; S Pannell 8 Sep 99; Ch ?? 9 Sep 99; L'Espirit du Siecle 27 Sep 99; Alsace end Sep 99; S Africa Oct 99; Calif and ?? Nov 99",
+  "schema:name": "Tasting notebook [1999-09-04 to 1999-11]: Lyon/Roanne 4/5 Sep 99; S Pannell 8 Sep 99; Ch ?? 9 Sep 99; L’Esprit du Siècle 27 Sep 99; Alsace end Sep 99; S Africa Oct 99; Calif and ?? Nov 99",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

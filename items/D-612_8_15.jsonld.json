@@ -36,7 +36,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Tasting notebook [2005-03-02]: Chateauneuf du Pape and Rhone Valley, Kettners, London 3 March 2005",
+  "schema:name": "Tasting notebook [2005-03-02]: Châteauneuf-du-Pape and Rhône Valley, Kettners, London 3 March 2005",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",

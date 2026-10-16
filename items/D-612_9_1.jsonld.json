@@ -32,7 +32,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
   },
-  "schema:name": "Tasting notebook [2006-12 to 2007]: Burgundy 2 Cote de Beaune Dec 06; Mendoza 07",
+  "schema:name": "Tasting notebook [2006-12 to 2007]: Burgundy 2 Côte de Beaune Dec 06; Mendoza 07",
   "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
